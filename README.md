@@ -2,11 +2,11 @@
 <h3 align="left">An IT, Cloud & Data Enthusiast 💻⛅📊</h3>
 <img align="center" alt="Coding" height="300" width="500" src="https://github.com/ali-arifin/PowerBI-Tableau-Dashboards/assets/103297661/9bf72ada-4810-4cb6-860c-75ec6e220c72">
 
-- 🌱 I’m currently learning **for associate level exams of AWS, Azure & GCP**
+- 🌱 An aspiring Multi-Cloud Engineer
 
-- 💬 Ask me about **Cloud Computing**
+- 💬 Ask me about designing, building, and maintaining cloud-based systems and infrastructure
 
-- 📫 How to reach me **aliarafin@hotmail.com**
+- 📫 Reach me at: **aliarafin@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
