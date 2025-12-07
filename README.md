@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ali Arifin</h1>
-<h3 align="left">An IT, Cloud & Data Enthusiast 💻⛅📊</h3>
+<h3 align="left"> Cloud, Data & Cybersecurity Professional 💻⛅📊</h3>
 <img align="center" alt="Coding" height="300" width="500" src="https://github.com/ali-arifin/PowerBI-Tableau-Dashboards/assets/103297661/9bf72ada-4810-4cb6-860c-75ec6e220c72">
 
-- 🌱 An aspiring Multi-Cloud Engineer
+- 🌱 Currently enrolled in a one-year Cloud Cybersecurity program (Dec 2025)
 
-- 💬 Ask me about designing, building, and maintaining cloud-based systems and infrastructure
+- 💬 Ask me about designing, building, and maintaining scalable, secure, and high-performance cloud infrastructures.
 
 - 📫 Reach me at: **aliarafin@hotmail.com**
   
