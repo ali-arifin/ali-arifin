@@ -8,7 +8,7 @@
 
 - 📫 Reach me at: **aliarafin@hotmail.com**
   
-- 📝 [My Gists](https://gist.github.com/ali-arifin)
+- 📝 [My Notebook](https://gist.github.com/ali-arifin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
